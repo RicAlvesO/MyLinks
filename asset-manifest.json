@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.35018a51.chunk.css",
-    "main.js": "/static/js/main.21f14c6c.chunk.js",
-    "main.js.map": "/static/js/main.21f14c6c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0bf3879b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0bf3879b.js.map",
-    "static/js/2.974992a4.chunk.js": "/static/js/2.974992a4.chunk.js",
-    "static/js/2.974992a4.chunk.js.map": "/static/js/2.974992a4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.35018a51.chunk.css.map": "/static/css/main.35018a51.chunk.css.map",
-    "static/js/2.974992a4.chunk.js.LICENSE.txt": "/static/js/2.974992a4.chunk.js.LICENSE.txt",
-    "static/media/github.8962f6f4.png": "/static/media/github.8962f6f4.png",
-    "static/media/instagram.a0b6eb5e.png": "/static/media/instagram.a0b6eb5e.png",
-    "static/media/spotify.f0e3cb5a.png": "/static/media/spotify.f0e3cb5a.png",
-    "static/media/twitter.fbc3caef.png": "/static/media/twitter.fbc3caef.png"
+    "main.css": "/MyLinks/static/css/main.35018a51.chunk.css",
+    "main.js": "/MyLinks/static/js/main.21f14c6c.chunk.js",
+    "main.js.map": "/MyLinks/static/js/main.21f14c6c.chunk.js.map",
+    "runtime-main.js": "/MyLinks/static/js/runtime-main.26a1742e.js",
+    "runtime-main.js.map": "/MyLinks/static/js/runtime-main.26a1742e.js.map",
+    "static/js/2.974992a4.chunk.js": "/MyLinks/static/js/2.974992a4.chunk.js",
+    "static/js/2.974992a4.chunk.js.map": "/MyLinks/static/js/2.974992a4.chunk.js.map",
+    "index.html": "/MyLinks/index.html",
+    "static/css/main.35018a51.chunk.css.map": "/MyLinks/static/css/main.35018a51.chunk.css.map",
+    "static/js/2.974992a4.chunk.js.LICENSE.txt": "/MyLinks/static/js/2.974992a4.chunk.js.LICENSE.txt",
+    "static/media/github.8962f6f4.png": "/MyLinks/static/media/github.8962f6f4.png",
+    "static/media/instagram.a0b6eb5e.png": "/MyLinks/static/media/instagram.a0b6eb5e.png",
+    "static/media/spotify.f0e3cb5a.png": "/MyLinks/static/media/spotify.f0e3cb5a.png",
+    "static/media/twitter.fbc3caef.png": "/MyLinks/static/media/twitter.fbc3caef.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0bf3879b.js",
+    "static/js/runtime-main.26a1742e.js",
     "static/js/2.974992a4.chunk.js",
     "static/css/main.35018a51.chunk.css",
     "static/js/main.21f14c6c.chunk.js"
